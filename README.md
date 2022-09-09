@@ -1,2 +1,2 @@
-# audiobook-utils
-Split, merge, and annotate audiobooks
+# audiobook-utils [WIP]
+CLI tool to split, merge, and annotate audiobooks.
